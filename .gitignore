@@ -1,0 +1,14 @@
+*.csv
+*.pkl
+*.h5
+*.joblib
+venv/
+.env/
+.venv/
+.streamlit/
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
